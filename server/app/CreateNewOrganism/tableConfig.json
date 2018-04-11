@@ -1,0 +1,21 @@
+{
+
+
+  "protein_annotation": {
+    "string_size": 200
+  },
+
+  "KOG": {
+    "string_size": 200
+  },
+
+  "Panther": {
+    "string_size": 200
+  },
+
+  "Pfam": {
+    "string_size": 200
+  }
+
+
+}

@@ -1,0 +1,14 @@
+{
+
+  
+  "test_db": {
+    "host": "localhost",
+    "user": "KBCommons",
+    "passwd": "KsdbsaKNm55d3QtvtX44nSzS",
+    "port": 3306,
+    "db": "Test"
+  }
+
+
+
+}
