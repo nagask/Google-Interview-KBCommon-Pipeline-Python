@@ -1,5 +1,5 @@
 # Data Processing Pipeline for KBCommons
-This data processing pipeline is a TCP/IP server that allows front-end or remote client to submit their job. For now, the pipeline contains five automated sub-pipelines (cDNA reformat, CDS reformat, Protein Sequence reformat, Annotation processing, Gene information processing, gene expression data and differential expression data processing). Once the data processing done, the pipeline would create new appropriate table and then upload data to it automatically.
+We provide this pipeline is to handle user uploaded file. This data processing pipeline is a TCP/IP server that allows front-end or remote client to submit their job. For now, the pipeline contains five automated sub-pipelines (cDNA reformat, CDS reformat, Protein Sequence reformat, Annotation processing, Gene information processing, gene expression data and differential expression data processing). Once the data processing done, the pipeline would create new appropriate table and then upload data to it automatically.
 
 # Flowchart
 Following figure is the flowchart of this pipeline:
